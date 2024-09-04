@@ -1,0 +1,5 @@
+bcl-convert Version 00.000.000.4.2.4
+Copyright (c) 2014-2018 Illumina, Inc. 
+
+# bcl-convert command executed:
+/usr/local/bin/bcl-convert --bcl-input-directory /JBOD/hiseq_current/231011_VH01111_32_AACCKY3HV --output-directory /JBOD/hiseq_current/231011_VH01111_32_AACCKY3HV/Demuxes/GC3F-PE-8242/pool-1/final --force --bcl-sampleproject-subdirectories true --sample-sheet SampleSheet.csv --no-lane-splitting true --bcl-num-conversion-threads 128 --bcl-num-parallel-tiles 4 --bcl-num-compression-threads 128 --bcl-num-decompression-threads 128
